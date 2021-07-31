@@ -1,0 +1,15 @@
+/* Write your code here. */
+body {
+  background-color: #0f172a;
+  color: white;
+  font-family: "Roboto";
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.mid-cont {
+}
